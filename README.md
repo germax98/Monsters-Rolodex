@@ -1,5 +1,6 @@
 # Monsters-Rolodex
 
+![Monster-Rolodex](Monster-Rolodex.png?raw=true "Monster-Rolodex")
 # Project Description
 
 Monsters Rolodex is a basic React app and a course-based project. The goal of the project is to learn the basics of React and to understand the key concepts of React. Monsters Rolodex is a website that creates diverse characters with a third-party API. You can filter the characters by their names.
